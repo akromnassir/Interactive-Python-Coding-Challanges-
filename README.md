@@ -24,13 +24,7 @@ Notebooks also detail:
 * Big-O time and space complexities
 
 
-## Challenge Solutions
 
-<br/>
-<p align="center">
-  <img src="https://github.com/akromnassir/Interactive-Python-Coding-Challanges-.git">
-</p>
-<br/>
 
 ## Anki Flashcards: Coding and Design
 
@@ -164,32 +158,6 @@ interactive-coding-challenges        # Repo
 <i>\*The notebooks (.ipynb) read/write the associated unit test (.py) file.</i>
 
 
-
-### Jupyter Notebook
-
-Run:
-
-```
-pip install jupyter
-```
-
-For detailed instructions, scripts, and tools to more optimally set up your development environment, check out the [dev-setup](https://github.com/donnemartin/dev-setup) repo.
-
-For more details on notebook installation, follow the directions [here](http://ipython.org/install.html).
-
-More information on IPython/Jupyter Notebooks can be found [here](http://ipython.org/notebook.html).
-
-## Running Challenges
-
-### Notebooks
-
-Challenges are provided in the form of **IPython/Jupyter Notebooks** and have been **tested with Python 2.7 and Python 3.x**.
-
-*If you need to install IPython/Jupyter Notebook, see the [Notebook Installation](#notebook-installation) section.*
-
-* This README contains links to [nbviewer](http://nbviewer.ipython.org), which hosts **static notebooks** of the repo's contents
-* To interact with or to modify elements within the **dynamic notebooks**, refer to the instructions below
-
 Run the notebook of challenges:
 
 ```
@@ -235,5 +203,5 @@ This will launch your web browser with the list of challenge categories:
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
-My contact info can be found on my [GitHub page](https://github.com/akromnassir).
+My contact info can be found on my https://github.com/akromnassir/ 
 
